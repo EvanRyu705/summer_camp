@@ -1,2 +1,5 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
+*{
+    font-family: "Roboto", system-ui;
+}
